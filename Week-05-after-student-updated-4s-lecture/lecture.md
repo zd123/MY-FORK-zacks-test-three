@@ -1,7 +1,7 @@
 # This is the lecture file. 
 
 ## IM UPDATING THIS LECTURE FILE AGAIN JUST TO SEE WHAT HAPPENS 
-In this case, the student did not update this file again. 
+In this case, the student is updating the lecture file again. 
 
 !!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!
